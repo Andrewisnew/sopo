@@ -1,0 +1,5 @@
+- name: Change ip
+  replace: 
+    path: /home/user/file.txt
+    regexp: 'hello'
+    replace: 'world'
