@@ -18,8 +18,8 @@ TASK [change-ip : Change ip] ***************************************************
 
  auto enp0s8
  iface enp0s8 inet static
--address 192.169.56.200
-+address 192.169.56.201
+-address 192.168.56.200
++address 192.168.56.201
  netmask 255.255.255.0
 
 
