@@ -1,4 +1,5 @@
 #- src: git@github.com:kost2191/docker-role.git
 - src: https://github.com/andrewisnew/docker-role.git
+  name: change-ip
   scm: git
   version: lab2
