@@ -1,9 +1,0 @@
-galaxy_info:
-  author: Andrewisnew
-  description: Change ip
-  company: Company
-  license: MIT
-  min_ansible_version: 2.4
-  galaxy_tags: []
-
-dependencies: []
